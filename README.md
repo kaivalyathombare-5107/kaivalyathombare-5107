@@ -181,23 +181,6 @@ My personal portfolio showcasing projects, skills, and professional journey. Liv
 
 ---
 
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<!-- SETUP: Enable GitHub Actions → add workflow from instructions below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaivalyathombare-5107/kaivalyathombare-5107/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaivalyathombare-5107/kaivalyathombare-5107/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaivalyathombare-5107/kaivalyathombare-5107/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 <!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 
 <div align="center">
