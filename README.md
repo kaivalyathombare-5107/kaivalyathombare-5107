@@ -40,7 +40,7 @@
 <td width="35%" valign="top" align="center">
 
 <!-- 🖼️ Upload your portrait to assets/portrait.png in this repo -->
-<img src="./assets/portrait.png" width="260" alt="Kaivalya Thombare" style="border-radius: 12px; border: 3px solid #FF4444;" />
+<img src="./portrait.svg" width="260" alt="Kaivalya Thombare" style="border-radius: 12px; border: 3px solid #FF4444;" />
 
 <br/><br/>
 
@@ -107,23 +107,6 @@ I'm a passionate **Computer Science student** at the **University of Mumbai**, o
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kaivalyathombare-5107&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444&text_color=ffffff&ring_color=FF4444" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaivalyathombare-5107&theme=radical&hide_border=true&background=0d1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=ffffff&dates=888888" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaivalyathombare-5107&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4444&text_color=ffffff&langs_count=8" width="49%" />
 
 </div>
 
