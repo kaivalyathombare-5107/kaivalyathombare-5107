@@ -201,7 +201,7 @@ My personal portfolio showcasing projects, skills, and professional journey. Liv
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaivalya-thombare-930a1b386)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4444?style=flat-square&logo=vercel&logoColor=white)](https://kaivalya-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaivalya@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:itskv5107.kt@gmail.com)
 
 <br/>
 
